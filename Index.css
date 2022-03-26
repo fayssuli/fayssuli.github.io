@@ -1,0 +1,19 @@
+.pro {
+    background-color: #f504ff;
+    
+}
+.letras {
+    font-family: 'Permanent Marker', cursive;
+}
+.nav{
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+}
+.troll {
+    position: fixed;
+    right: 50%;
+    top: 50%;
+}
